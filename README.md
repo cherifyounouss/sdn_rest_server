@@ -9,4 +9,4 @@ SDN REST server working at the controller's upper level
 
 # Installation
 Run the following command :
-mvn install
+**mvn install**
