@@ -10,7 +10,7 @@ import javax.ws.rs.core.Response;
 import java.io.InputStream;
 
 /**
- * Root resource (exposed at "myresource" path)
+ * Root resource (exposed at "connection" path)
  */
 
 @Path("connection")

@@ -11,7 +11,7 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
 /**
- * Root resource (exposed at "myresource" path)
+ * Root resource (exposed at "laptop" path)
  */
 @Path("laptop")
 public class MachineResource {

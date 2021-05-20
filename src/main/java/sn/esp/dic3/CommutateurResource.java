@@ -13,7 +13,7 @@ import java.io.InputStream;
 
 
 /**
- * Root resource (exposed at "myresource" path)
+ * Root resource (exposed at "switch" path)
  */
 
 @Path("switch")
